@@ -12,3 +12,4 @@ Here's a table showing the time complexity of various data structures:
 | Data Structure | Access | Search | Insertion | Deletion | Space Complexity |
 | -------------- | ------ | ------ | --------- | -------- | ---------------- |
 | Stack          | O(n)   | O(n)   | O(1)      | O(1)     | O(n)             |
+| Linked list    | O(n)   | O(n)   | O(1)      | O(1)     | O(n)             |
